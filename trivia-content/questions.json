@@ -92,7 +92,7 @@
   },
 
   {
-    "id": 11,
+    "id": 1,
     "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
@@ -101,7 +101,7 @@
     "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Pink Floyd"]
   },
   {
-    "id": 12,
+    "id": 2,
     "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
@@ -110,7 +110,7 @@
     "incorrect_answers": ["Prince", "Elvis Presley", "Justin Timberlake"]
   },
   {
-    "id": 13,
+    "id": 3,
     "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
@@ -119,7 +119,7 @@
     "incorrect_answers": ["Organ", "Harp", "Accordion"]
   },
   {
-    "id": 14,
+    "id": 4,
     "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
@@ -128,7 +128,7 @@
     "incorrect_answers": ["Taylor Swift", "Dua Lipa", "Kelly Clarkson"]
   },
   {
-    "id": 15,
+    "id": 5,
     "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
@@ -137,7 +137,7 @@
     "incorrect_answers": ["Mozart", "Bach", "Haydn"]
   },
   {
-    "id": 16,
+    "id": 6,
     "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
@@ -146,7 +146,7 @@
     "incorrect_answers": ["Aerosmith", "The Who", "Eagles"]
   },
   {
-    "id": 17,
+    "id": 7,
     "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
@@ -155,7 +155,7 @@
     "incorrect_answers": ["Sting", "Mick Jagger", "Eddie Vedder"]
   },
   {
-    "id": 18,
+    "id": 8,
     "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
@@ -164,7 +164,7 @@
     "incorrect_answers": ["Chopin", "Tchaikovsky", "Debussy"]
   },
   {
-    "id": 19,
+    "id": 9,
     "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
@@ -173,7 +173,7 @@
     "incorrect_answers": ["David Bowie", "Stevie Wonder", "Elton John"]
   },
   {
-    "id": 20,
+    "id": 10,
     "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
