@@ -15,7 +15,7 @@
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is Utah's state bird?",
-    "correct_answer": "Seagull (More Specifically the California Gull)",
+    "correct_answer": "California Gull (Seagull)",
     "incorrect_answers": ["Golden Eagle", "Western Meadowlark", "Robin"]
   },
   {
